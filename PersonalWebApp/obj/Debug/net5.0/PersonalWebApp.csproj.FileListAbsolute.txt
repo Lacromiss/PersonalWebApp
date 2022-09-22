@@ -144,3 +144,15 @@ C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\bin\Debug\net5.0\runti
 C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Shared\_AdminLayout.cshtml.g.cs
 C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
 C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Home\Index.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Me\Create.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Me\Index.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Profil\Create.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Profil\Index.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Profil\Update.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Requirements\Index.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Requirements\Create.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Requirements\Update.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Requirements\Aboutindex.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Requirements\AboutCreate.cshtml.g.cs
+C:\Users\lacro\source\repos\PersonalWebApp\PersonalWebApp\obj\Debug\net5.0\Razor\Areas\Manage\Views\Requirements\AboutUpdate.cshtml.g.cs
